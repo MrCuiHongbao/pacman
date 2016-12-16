@@ -2,8 +2,6 @@
 
 Pacman is a flat and responsive design theme for [Hexo](http://hexo.io).
 
-[Demo](https://github.com/Voidly/pacman) || [Voidy's Blog](http://voidy.net)
-
 [原作者](http://A-limon.github.io/pacman)
 
 中文说明请访问[这里](http://A-limon.github.io/pacman/hello/introducing-pacman-theme/)
@@ -118,9 +116,4 @@ google_cse:
   cx:  ## e.g. 000561263943549425496:mrzrm0gr4kg your Custom Search ID.
 ## https://www.google.com/cse/
 ```
-
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/A-limon/pacman/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
